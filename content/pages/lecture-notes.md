@@ -4,7 +4,7 @@ draft: false
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-title: Lecture Notes???
+title: Lecture Notes?
 uid: a6983d23-967e-f354-721b-c9edd87ca561
 ---
 This table includes discussion summaries and lecture notes for the first 6 sessions. From session #7 on, class discussion focused on individual student projects.
