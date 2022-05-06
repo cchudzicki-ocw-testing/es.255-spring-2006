@@ -4,7 +4,7 @@ draft: false
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-title: Lecture Notes???
+title: Lecture Notes
 uid: a6983d23-967e-f354-721b-c9edd87ca561
 ---
 This table includes discussion summaries and lecture notes for the first 6 sessions. From session #7 on, class discussion focused on individual student projects.
@@ -19,7 +19,7 @@ NOTES
 1
 {{< tdclose >}}{{< tdopen >}}
 
-Introduction
+Introduction yahzzzzz
 
 Discussion: Might the natural frequencies of karabiner gates and ropes match under certain circumstances that would cause the karabiner gate to be open during fall arrest?
 
@@ -49,8 +49,8 @@ Presentation ({{% resource_link "2ef66d72-577e-07d0-3a50-a0a7865fab6d" "PDF" %}}
 
 Three student projects defined:
 
-\- Measurement of karabiner gate opening due to oscillation, both in-vitro (say glued to a speaker cone) and in-vivo (in a drop test).   
-\- Modeling of the frequency matching between rope and karabiner gate oscillation.   
+\- Measurement of karabiner gate opening due to oscillation, both in-vitro (say glued to a speaker cone) and in-vivo (in a drop test).             
+\- Modeling of the frequency matching between rope and karabiner gate oscillation.             
 \- Rope middle marking.
 
 {{< tdclose >}}{{< tdopen >}}
